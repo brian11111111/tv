@@ -5,7 +5,8 @@
 	"sites":[
 {"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/douban.json"}},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_NanGua","name":"南瓜┃秒播APP","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},     
+{"key":"csp_NanGua","name":"南瓜┃秒播APP","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},   
+{"key":"csp_Hmys","name":"拾光┃秒播APP","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dy.jmzp.net.cn"},
 {"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg09397919456493i0h44j8681highi4"},  
 {"key":"热播","name":"♨热播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
